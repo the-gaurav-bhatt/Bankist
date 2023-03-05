@@ -60,7 +60,7 @@ const Info = `
   <p class="lead m-0">Welcome to the Simple Pseudo Trasection Page. </p>
 </div>
 <div class="d-flex justify-content-center">
-  <p class="d-block m-0">Username: ss Pin: 3333 </br> Username:sr Pin:4444 
+  <p class="d-block m-0">Username: ss Pin: 2222 </br> Username:sr Pin:4444 
   </p> 
 </div>
 <div class="d-flex justify-content-center">
